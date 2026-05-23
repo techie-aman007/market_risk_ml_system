@@ -1,0 +1,12 @@
+numpy
+yfinance
+matplotlib
+plotly
+shap
+scikit-learn
+scipy
+statsmodels
+hmmlearn
+xgboost
+lightgbm
+arch
